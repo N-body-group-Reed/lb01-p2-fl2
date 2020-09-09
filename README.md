@@ -1,4 +1,4 @@
-# lb01-p2-fl2
+# lb01-p2-fl2 -- this name should change
 cs221 -- intro to git
 
 
